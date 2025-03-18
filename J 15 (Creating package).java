@@ -12,3 +12,4 @@ public class test
 
 command 1: javac -d . test.java
 command 2: java p.test
+	*/
