@@ -11,5 +11,6 @@ public class test
 /*
 
 command 1: javac -d . test.java
-command 2: java p.test
+command 2: javac test.java
+command 3: java p.test
 	*/
